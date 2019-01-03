@@ -12,7 +12,7 @@ sleep 1
 echo "$verde Forma de USO: \033[0m"
 echo "sudo sh $0 $vermelho Carteira de XMR \033[0m  \n "
 echo "$verde Exemplo:\033[0m"
-echo "sudo sh $0 $vermelho 43GMgRC17wviKJwLrQioLe4LdEqVKuvK8cRGAPJ6u1VsTfWwuw4UQ3d2DK3UnYedNXYQja8NNGw8aVgAsbaqCfxWTpjyTD4 \033[0m   \n"
+echo "sudo sh $0 $vermelho 63GMgRC17wviKJwLrQioLe4LdEqVKuvK8cRGAPJ6u1VsTfWwuw4UQ3d2DK4UnYedNXYQja8NNGw8aVgAsbaqCfxWTpjyTD7 \033[0m   \n"
 exit 0
 fi
 
@@ -45,7 +45,7 @@ sleep 1
 echo "$verde Forma de USO: \033[0m"
 echo "sudo sh $0 $vermelho Carteira de Monero \033[0m  \n "
 echo "$verde Exemplo:\033[0m"
-echo "sudo sh $0 $vermelho 43GMgRC17wviKJwLrQioLe4LdEqVKuvK8cRGAPJ6u1VsTfWwuw4UQ3d2DK3UnYedNXYQja8NNGw8aVgAsbaqCfxWTpjyTD4 \033[0m   \n"
+echo "sudo sh $0 $vermelho 63GMgRC17wviKJwLrQioLe4LdEqVKuvK8cRGAPJ6u1VsTfWwuw4UQ3d2DK4UnYedNXYQja8NNGw8aVgAsbaqCfxWTpjyTD7 \033[0m   \n"
 exit 0
 fi
 
